@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-const MONGO_URL = ' mongodb://127.0.0.1:27017/diary'
+const MONGO_URL = ' mongodb+srv://ss22:ss22@cluster0.x5v9u.mongodb.net/diary'
 
 
 const connectDB = async () => {
